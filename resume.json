@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "Jacob Isenberg",
+    "picture": "http://imgur.com/T7wtxaV.png",
+    "label":"Web Developer | Project Manager",
+    "email": "jisenber25@gmail.com",
+    "phone": "(206) 909-2235",
+    "summary": "Resourceful and well-rounded JavaScript developer with a background in project management and scientific research. Seeking an opportunity to combine my passion for software development with my proven skills in project management and contribute to a team as a technical PM.",
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "url": "https://github.com/jisenber"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://linkedin.com/in/jisenber/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "The Meat Empire",
+      "position": "Front End Web Developer (Contract)",
+      "website": "https://themeatempire.com",
+      "startDate": "2017-06",
+      "endDate": "present",
+      "summary": "Implement page-speed optimizations and UI customizations to beef jerky marketplace website that processes ~$4,000 in revenue/month. Customizations implemented primarily through jQuery in the Squarespace local development sever."
+    },
+    {
+      "company": "Fred Hutchinson Cancer Research Center",
+      "position": "Project Coordinator",
+      "startDate": "2015-01",
+      "endDate": "2017-08",
+      "summary": "Worked with a range of stakeholders to streamline and modernize the clinical trial implementation process for Fred Hutch’s Gene Therapy Program.  Led the organization of the Conference on Cell & Gene Therapy for HIV Cure and managed the content on the websites of Drs. Hans-Peter Kiem and Jennifer Adair. Created figures and graphics with Adobe Photoshop CS6 for utilization on posters, in oral presentations, and for publication in scientific manuscripts. Received promotion in March, 2016."
+    },
+    {
+      "company": "US House of Representatives",
+      "position": "Staff Assistant",
+      "startDate": "2013-12",
+      "endDate": "2015-01",
+      "summary": "Managed constituent casework for Congressman Jim McDermott and acted as a liaison between constituents and federal agencies. Recruited and supervised interns and wrote letters and speeches for the Congressman. Represented and spoke on behalf of Congressman at various events."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Environments",
+      "keywords": [
+        "Node.js",
+        "Unix"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Angular.js",
+        "Express.js"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "keywords": [
+        "jQuery",
+        "Bootstrap",
+        "Nunjucks",
+        "Handlebars"
+      ]
+    },
+    {
+      "name": "Applications",
+      "keywords": [
+        "Adobe Photoshop CC 2017",
+        "Atom",
+        "Microsoft Office",
+        "SPSS",
+        "REDCap"
+      ]
+    },
+    {
+      "name": "Design Concepts",
+      "keywords": [
+        "REST",
+        "Responsive",
+        "MVC",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Tools and More",
+      "keywords": [
+        "Git",
+        "MongoDB",
+        "Mocha",
+        "Chai",
+        "Karma",
+        "Babel",
+        "Gulp",
+        "Webpack",
+        "Passport",
+        "Bcrypt",
+        "Heroku",
+        "Superagent"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Code Fellows",
+      "area": "Advanced Software Development in Full Stack JavaScript",
+      "studyType":"Certificate",
+      "startDate": "2016-10",
+      "endDate": "2017-04"
+    },
+    {
+      "institution": "University of Washington",
+      "area": "Environmental Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2009-09",
+      "endDate": "2013-12",
+      "gpa": "3.7"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Trends in Cigarette Smoking and Cessation Among Medicare Managed Care Recipients",
+      "publisher": "Addictive Behaviors Journal",
+      "releaseDate": "2016-07",
+      "website": "https://www.ncbi.nlm.nih.gov/pubmed/26946446",
+      "summary": "Research project led by Dr. Stephen Thielke and myself to use publicly available data from the Medicare Health Outcomes Survey to examine recent smoking cessation trends amongst Medicare beneficiaries."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top Performer",
+      "date": "2017-04",
+      "awarder": "Code Fellows",
+      "summary": "Given Top Performer Honors as a student in the Code Fellows 401n3 Advanced JavaScript Nights & Weekends Course"
+    },
+    {
+      "title": "Academic Scholarship",
+      "date": "2013-09",
+      "awarder": "University of Washington School of Environmental and Forest Sciences",
+      "summary": "Departmental academic scholarship awarded to students based on demonstration of academic merit (second time awarded)"
+    },
+    {
+      "title": "Second Prize",
+      "date": "2013-11",
+      "awarder": "University of Washington Jackson School of International Studies",
+      "summary": "Germany-in Europe op-ed competition sponsored by the German Embassy to the United States. Top three essays given cash prizes",
+      "url":"https://germanics.washington.edu/sites/germanics/files/documents/research/isenberg.pdf"
+    },
+    {
+      "title": "Academic Scholarship",
+      "date": "2012-09",
+      "awarder": "University of Washington School of Environmental and Forest Sciences",
+      "summary": "Departmental academic scholarship awarded to students based on demonstration of academic merit (first time awarded)"
+    },
+    {
+      "title": "Jody Deering Nyquist Award for Excellence in Public Speaking",
+      "date": "2012-06",
+      "awarder": "University of Washington Department of Communication",
+      "summary": "Placed third in the University of Washington's annual Jody Deering Nyquist Public Speaking Competition. Awards given for top three finalists",
+      "url":"http://www.com.washington.edu/2012/05/celebration-of-excellence-2012/"
+    }
+  ]
+}
